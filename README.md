@@ -9,8 +9,6 @@ time to master in that language 😄
 After learning Java (and Kotlin - maybe) I also want to learn Flutter. It looks very interesting and exciting to me.
 Also I know Node.js but I'm a beginner of it.
 
-Besides from these also I know Node.js but I'm a beginner of it.
-
 If you want to follow me on Twitter [here is my profile.](https://twitter.com/berkakkayaaa)
 (Tweets in Turkish, I don't write tweets in English for now, sorry)
 
