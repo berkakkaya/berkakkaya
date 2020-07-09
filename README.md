@@ -19,7 +19,3 @@ Our team is still new and it has only one project at this time but in future we 
 If you want to check out our team [here is the link.](https://github.com/dundar-ciloglu-programming-team)
 
 Also I added my email to my profile, you can contact me here.
-
-If you want to read my beginning of my programming adventure you can read [here.](ADVENTURE.md)
-
-If you want to know what laptop I use you can see [here.](COMPUTER.md)
