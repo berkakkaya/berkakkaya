@@ -53,4 +53,4 @@ Even though it has a overheating problem I love this computer.
 * RAM: 6GB
 * Graphics Card: Radeon HD 7670M
 
-![Image of my computer](https://lh3.googleusercontent.com/pw/ACtC-3cuA-Q6BSqiwyG6nF7K17h6MOUSIOKBtws1Ve2OGXaLpubFPGD7TkSCop7s8ZKxRwY_91XpB6MQjS1K0QxqGGjZkvuUZ9AU45DhsyAj1LpBVFZItxzx_MK0GXpy-ilZk5kVL4b9kHEzN9mdEw0JZnM=w497-h662-no)
+![Image of my computer](https://raw.githubusercontent.com/berkakkaya/berkakkaya/master/image.jpg)
