@@ -1,6 +1,6 @@
 # About Me
 Hi, I'm Berk Akkaya. I'm 17 years old student that tries to master in Python and learn diffrent programming languages.
-In these times I work on projects that uses Machine Learning. Actually I'm very beginner at it but the capabilities you can do
+In these times I work on projects that uses Machine Learning. Actually I'm very beginner at it but the things you can do
 with it are amazing and it excites me a lot.
 
 I'm also studying on mobile development. I'm new at Java. I learned it's syntax and some basics but I think it will take
