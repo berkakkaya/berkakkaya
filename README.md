@@ -1,7 +1,7 @@
 # Welcome to my Github profile!
 
 ## About Me
-Hi, I'm Berk Akkaya. I'm 18 years old student that tries to master in Python and learn diffrent programming languages.
+Hi, I'm Berk Akkaya. I'm 19 years old student that tries to master in Python and learn different programming languages.
 Also I study on Machine Learning and am currently working on project that uses Machine Learning.
 Actually I'm very beginner at it but the things you can do with it are amazing and it excites me a lot.
 
