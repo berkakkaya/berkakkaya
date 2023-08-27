@@ -38,9 +38,9 @@ to watch them.
 
 I love Linux based distros, so much. I have years (and years) of experience
 in *distro hopping* 😄. I tried to many Linux distros and I follow open-source
-and Linux content creators to see what's new. I also gained precious experience
-from it, it teached me how to manage Linux system and different concepts in
-Linux world that I've never heard of in Windows land.
+and Linux content creators to see what's new. I also gained so much precious experience
+from it, it teached me how to manage Linux systems and different concepts in
+Linux world that I've never heard of in Windows land before.
 
 ## 💭 Contact
 
