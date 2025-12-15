@@ -19,25 +19,25 @@ I care a lot about **open source**, **Linux based systems**, and **self hostable
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 Dart, Python, Java, C, C++
 
-**Mobile & UI**
+### Mobile & UI
 Flutter, Firebase, Figma
 
-**Backend & Data**
-REST APIs, JWT based authentication, WebSockets
+### Backend & Data
+REST APIs, JWT auth systems, Google Sign-In auth systems, WebSockets,
 PostgreSQL, MongoDB, Microsoft SQL Server
 
-**AI & Data**
-TensorFlow, Keras, OpenCV
+### AI & Data
+TensorFlow, Keras, OpenCV,
 Pandas, NumPy, Scikit learn
 
-**DevOps & Systems**
-Docker, Git, GitHub
+### DevOps & Systems
+Docker, Git, GitHub,
 Linux based operating systems
 
-**Embedded & Hardware**
+### Embedded & Hardware
 ATmega microcontrollers, SMD components, Bluetooth Classic, BLE, RF
 
 ---
